@@ -1,8 +1,5 @@
-Entendi. Vamos focar no que realmente importa: um README profissional que destaque o projeto mesmo sem o deploy funcionando.
 
-Aqui está o README completo e pronto para usar:
 
-```markdown
 # TaskFlow API
 
 API RESTful para gerenciamento de projetos e tarefas, construída com Node.js, Express e MySQL.
@@ -166,4 +163,3 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 ---
 
 Desenvolvido por [Rafael Henrique](https://github.com/RafaelHenriqu)
-```
