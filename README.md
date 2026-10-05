@@ -34,7 +34,7 @@ API RESTful para gerenciamento de projetos e tarefas, construída com Node.js, E
 - Git
 
 ### Instalação
-```
+
 1. Clone o repositório:
 ```bash
 git clone https://github.com/RafaelHenriqu/taskflow-api.git
@@ -75,7 +75,7 @@ npx knex seed:run
 
 7. Inicie o servidor:
 ```bash
-npm run dev
+node src/server.js
 ```
 
 A API estará disponível em `http://localhost:3333`
